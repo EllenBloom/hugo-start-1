@@ -57,14 +57,9 @@ Knižní
 
  Pravděpodobně různými konspiračními weby, do tmavých barev s clickbait obrázky
 
-[Hugo][] website created for a course [VIKBA07][].
+Hugo website created for a course [VIKBA07][].
 
-Learn more about Hugo with a [quick start guide][qs] or by exploring its [documentation][hugoDocs].
-
-[Hugo]: https://gohugo.io
 [VIKBA07]: https://is.muni.cz/predmet/phil/VIKBA07
-[hugoDocs]: https://gohugo.io/documentation/
-[qs]: https://gohugo.io/getting-started/quick-start/
 [Mandela effect]: http://mandelaeffect.com/
 [Skeptic's dictionary]: http://www.skepdic.com/falsememory.html
 [The Mandela Effect and how your mind is playing tricks on you]: http://theconversation.com/the-mandela-effect-and-how-your-mind-is-playing-tricks-on-you-89544
